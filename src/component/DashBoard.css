@@ -1,0 +1,22 @@
+.navbar-style {
+    display: flex;
+    background-color: blanchedalmond;
+    color: black;
+    padding: 10px 20px;
+    width: 100%;
+    height: 6vh;
+    box-sizing: border-box;
+}
+
+.nav-item {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item li {
+    margin-right: 10px;
+}
+.search{
+   display: flex;
+   margin-left: 60%;
+}
